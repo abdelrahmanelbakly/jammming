@@ -1,0 +1,34 @@
+.Tracklist {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-content: center;
+    overflow-y: scroll;
+    width: 100%;
+    background-color: rgba(1, 12, 63, 0.7);
+    box-shadow: 0 4px 2px 2px #000000;
+  }
+::-webkit-scrollbar {
+    width: 0px;
+    background: transparent;
+}
+.container{
+    width: 30%;
+    height: 82.5%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+.trackAction{
+    cursor: pointer;
+    padding: .5rem;
+    font-size: 1.05rem;
+    color: rgb(159, 161, 234);
+    transition: color .25s;
+    background: transparent;
+    border: none;
+}
+
+.trackAction:hover {
+    color: rgba(265, 265, 265, .5);
+}

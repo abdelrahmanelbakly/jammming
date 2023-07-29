@@ -7,7 +7,12 @@ import reportWebVitals from './reportWebVitals';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <header>
+      <h1>Ja<span className="highlight">mmm</span>ing</h1>
+    </header>
+    <div className='container'>
+      <App />
+    </div>
   </React.StrictMode>
 );
 

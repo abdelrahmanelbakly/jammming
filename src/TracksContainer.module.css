@@ -1,0 +1,8 @@
+.lists{
+    background-color: blue;
+    height: 70%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+  }
