@@ -23,7 +23,7 @@ Jammming is a web application developed as part of the Codecademy Fullstack Care
 
 ## Screenshots/GIFs
 
-![Jammming Demo](demo.jpg)
+![Jammming Demo](demo.JPG)
 
 ## How to Use
 
