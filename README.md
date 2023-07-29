@@ -36,7 +36,7 @@ Jammming is a web application developed as part of the Codecademy Fullstack Care
     or
     yarn install
 4. Create a Spotify Developer account and create a new application to obtain the **Client ID**.
-5. In the project's `src` store your **Client ID**.
+5. In the project's `src/App` store your **Client ID**.
 6. Start the development server:
     npm start
     or
