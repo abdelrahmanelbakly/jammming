@@ -28,7 +28,7 @@ Jammming is a web application developed as part of the Codecademy Fullstack Care
 ## How to Use
 
 1. Clone the repository to your computer:
-     clone https://github.com/your-username/jammming.git
+     clone https://github.com/abdelrahmanelbakly/jammming
 2. Navigate to the project directory:
     cd jammming
 3. Install project dependencies using npm or yarn:
