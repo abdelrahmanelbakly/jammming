@@ -21,7 +21,7 @@ Jammming is a web application developed as part of the Codecademy Fullstack Care
 
 - **Save to Spotify:** After customizing the playlist, users can save it directly to their Spotify account, making it available on all their devices.
 
-## Screenshots/GIFs
+## Demo screenshot
 
 ![Jammming Demo](demo.JPG)
 
