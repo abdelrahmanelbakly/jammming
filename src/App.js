@@ -5,7 +5,7 @@ import Tracklist from './Tracklist';
 import { useEffect,useState } from 'react';
 function App() {
   //setup spotify api calls requirements
-  const CLIENT_ID = "60dfb0505d1847539a3c72e8dd4f1660"
+  const CLIENT_ID = "Your_Client_ID"
   const REDIRECT_URI = "http://localhost:3000"
   const AUTH_ENDPOINT = "https://accounts.spotify.com/authorize"
   const RESPONSE_TYPE = "token"
