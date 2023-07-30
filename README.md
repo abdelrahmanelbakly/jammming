@@ -62,6 +62,7 @@ Jammming was built using the following technologies and frameworks:
 
 ---
 
+- **Note:** this README.md was mostly generated using ChatGPT.
 _Thank you for checking out the Jammming project! If you have any questions or feedback, feel free to contact me at abdelrahman.abdelaziz9@gmail.com. Happy jamming!_
 
 
