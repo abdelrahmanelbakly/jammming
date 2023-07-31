@@ -5,7 +5,7 @@ import Tracklist from './Tracklist';
 import { useEffect,useState } from 'react';
 function App() {
   //setup spotify api calls requirements
-  const CLIENT_ID = "Your_Client_ID"
+  const CLIENT_ID = "Your_CLIENT_ID"
   const REDIRECT_URI = "http://localhost:3000"
   const AUTH_ENDPOINT = "https://accounts.spotify.com/authorize"
   const RESPONSE_TYPE = "token"
@@ -145,13 +145,9 @@ function App() {
     <div className='starter'>
       {!token ?
         <div className='login'>
-          <a href={`${AUTH_ENDPOINT}
-            ?client_id=${CLIENT_ID}
-            &redirect_uri=${REDIRECT_URI}
-            &response_type=${RESPONSE_TYPE}
-            &scope=${SCOPES}`}>
+          <a href={`${AUTH_ENDPOINT}?client_id=${CLIENT_ID}&redirect_uri=${REDIRECT_URI}&response_type=${RESPONSE_TYPE}&scope=${SCOPES}`}>
             Login to Spotify
-          </a>
+          </a>  
         </div>
         :
         <div className='App'>
