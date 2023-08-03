@@ -62,7 +62,7 @@ Jammming was built using the following technologies and frameworks:
 
 ---
 
-- **Note:** this README.md was mostly generated using ChatGPT.
+- **Note:** This README.md was mostly generated using ChatGPT.
 
 ---
 
